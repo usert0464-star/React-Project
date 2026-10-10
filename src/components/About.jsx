@@ -2,9 +2,9 @@ import "./About.css";
 
 const About = () => {
   const stats = [
-    { number: "2+", label: "Years Experience" },
-    { number: "30+", label: "Projects Done" },
-    { number: "15+", label: "Happy Clients" },
+    { number: "1,5+", label: "Years Experience" },
+    { number: "15+", label: "Projects Done" },
+    { number: "10+", label: "Happy Clients" },
     { number: "5+", label: "Technologies" },
   ];
 
