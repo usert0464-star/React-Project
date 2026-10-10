@@ -21,13 +21,13 @@ const Contact = () => {
     {
       icon: "📧",
       label: "Email",
-      value: "alex@example.com",
-      href: "mailto:alex@example.com",
+      value: "pradeepsah@techgropse.com",
+      href: "mailto:pradeepsah@techgropse.com",
     },
     {
       icon: "📍",
       label: "Location",
-      value: "New York, USA",
+      value: "New Delhi",
       href: null,
     },
     {

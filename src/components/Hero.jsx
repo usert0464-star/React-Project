@@ -5,7 +5,7 @@ const Hero = () => {
     <section id="home" className="hero">
       <div className="hero-content">
         <p className="hero-greeting">Hi there, I'm</p>
-        <h1 className="hero-name">Alex Johnson</h1>
+        <h1 className="hero-name">Pradeep Sah</h1>
         <h2 className="hero-title">
           Full Stack <span>Developer</span>
         </h2>
@@ -56,7 +56,7 @@ const Hero = () => {
       <div className="hero-visual">
         <div className="hero-blob"></div>
         <div className="hero-avatar">
-          <span>AJ</span>
+          <span>PS</span>
         </div>
       </div>
       <div className="scroll-indicator">

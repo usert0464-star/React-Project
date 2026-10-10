@@ -10,7 +10,7 @@ const Footer = () => {
           <span>&lt;</span>Portfolio<span>/&gt;</span>
         </div>
         <p className="footer-copy">
-          © {year} Alex Johnson. Built with React & Vite.
+          © {year} Pradeep Sah. Built with React & Vite.
         </p>
         <button
           className="back-top"

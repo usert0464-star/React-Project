@@ -18,7 +18,7 @@ const About = () => {
       <div className="about-content">
         <div className="about-image-wrap">
           <div className="about-image">
-            <span>AJ</span>
+            <span>PS</span>
           </div>
           <div className="about-badge">
             <span>Available for Work</span>
@@ -41,15 +41,15 @@ const About = () => {
           <div className="about-info">
             <div className="info-item">
               <span className="info-label">Name</span>
-              <span className="info-value">Alex Johnson</span>
+              <span className="info-value">Pradeep Sah</span>
             </div>
             <div className="info-item">
               <span className="info-label">Email</span>
-              <span className="info-value">alex@example.com</span>
+              <span className="info-value">pradeepsah@techgropse.com</span>
             </div>
             <div className="info-item">
               <span className="info-label">Location</span>
-              <span className="info-value">New York, USA</span>
+              <span className="info-value">New Delhi</span>
             </div>
             <div className="info-item">
               <span className="info-label">Availability</span>
