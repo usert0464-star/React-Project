@@ -23,7 +23,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
       <div className="nav-logo">
-        <span>&lt;</span>Portfolio<span>/&gt;</span>
+        <span>&lt;</span>Pradeep's Projects<span>/&gt;</span>
       </div>
 
       <ul className={`nav-links ${menuOpen ? "open" : ""}`}>

@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-inner">
         <div className="footer-logo">
-          <span>&lt;</span>Portfolio<span>/&gt;</span>
+          <span>&lt;</span>Pradeep's Projects<span>/&gt;</span>
         </div>
         <p className="footer-copy">
           © {year} Pradeep Sah. Built with React & Vite.
